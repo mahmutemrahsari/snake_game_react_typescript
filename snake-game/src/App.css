@@ -1,0 +1,14 @@
+body {
+  max-width: 1000px;
+  margin: auto;
+  background:grey;
+}
+
+.playArea {
+  background-color: green;
+}
+
+#fruit{
+  display: none;
+}
+
