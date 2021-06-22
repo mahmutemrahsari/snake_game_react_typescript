@@ -1,2 +1,2 @@
 # snake_game_react_typescript
-Snake game created with React w/ TypeScript
+Snake game created with React TypeScript
